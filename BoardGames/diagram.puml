@@ -1,0 +1,66 @@
+@startuml diagram
+abstract class AbstractGame {
+    - Player[] players
+    - int currentPlayerIndex
+    + AbstractGame(Player[] players)
+    + void startGame()
+    + abstract void instruct()
+    + abstract int getPlayerInput(Player player)
+    + abstract boolean update(int move)
+    + abstract boolean checkWin()
+    + abstract boolean isDraw()
+}
+
+class ConnectThree {
+    - Grid grid
+    - char[] discs
+    + ConnectThree(Player[] players, char[] discs)
+    + void instruct()
+    + int getPlayerInput(Player player)
+    + boolean update(int column)
+    + boolean checkWin()
+    + boolean isDraw()
+}
+
+class Grid {
+    - char[][] board
+    + Grid(int rows, int cols)
+    + void display()
+    + boolean setItem(int row, int col, char item)
+    + char getItem(int row, int col)
+    + int getRows()
+    + int getCols()
+    + boolean isFull()
+}
+
+abstract class Player {
+    - String name
+    + Player(String name)
+    + String getName()
+    + abstract int getInput()
+}
+
+class HumanPlayer {
+    - Scanner scanner
+    + HumanPlayer(String name)
+    + int getInput()
+}
+
+class AIPlayer {
+    - Random random
+    + AIPlayer(String name)
+    + int getInput()
+}
+
+class BoardGameApp {
+    + static void main(String[] args)
+}
+
+AbstractGame <|-- ConnectThree
+AbstractGame <|-- Player
+Player <|-- HumanPlayer
+Player <|-- AIPlayer
+
+ConnectThree *-- Grid
+OurBoardGame --> AbstractGame
+@enduml

@@ -1,0 +1,252 @@
+General Word Bank
+Easy Words
+
+    cat
+    dog
+    apple
+    book
+    chair
+    house
+    water
+    dance
+    dream
+    money
+
+Medium Words
+
+    garden
+    puzzle
+    mountain
+    thunder
+    chicken
+    jungle
+    rainbow
+    trophy
+    laptop
+    wizard
+
+Hard Words
+
+    astronaut
+    hurricane
+    chandelier
+    crocodile
+    labyrinth
+    ecosystem
+    dystopia
+    silhouette
+    sapphire
+    paradox
+
+Themed Word Bank
+Animals
+
+    elephant
+    kangaroo
+    butterfly
+    dolphin
+    peacock
+    penguin
+    octopus
+    hedgehog
+    flamingo
+    narwhal
+    giraffe
+    platypus
+    chameleon
+    seahorse
+    raccoon
+    walrus
+    bear
+    panda
+    koala
+    lynx
+
+Food
+
+    spaghetti
+    chocolate
+    pineapple
+    burger
+    cinnamon
+    cucumber
+    avocado
+    croissant
+    marshmallow
+    tortilla
+    sushi
+    lasagna
+    cheesecake
+    mango
+    blueberry
+    peanut
+    donut
+    popcorn
+    pretzel
+    pizza
+    shawarma
+    wings
+
+Nature
+
+    volcano
+    waterfall
+    desert
+    hurricane
+    blizzard
+    canyon
+    glacier
+    savanna
+    aurora
+    meadow
+    lagoon
+    cliff
+    forest
+    oasis
+    coral
+    dune
+    rainbow
+    mountain
+    hill
+    river
+    sea
+
+Professions
+
+    firefighter
+    scientist
+    musician
+    architect
+    librarian
+    astronaut
+    detective
+    engineer
+    journalist
+    veterinarian
+    chef
+    pilot
+    teacher
+    pharmacist
+    carpenter
+    gardener
+    actor
+    mechanic
+    programmer
+    designer
+    doctor
+    researcher
+    scientist
+
+
+Places
+
+    library
+    museum
+    stadium
+    airport
+    castle
+    factory
+    lighthouse
+    hospital
+    laboratory
+    marketplace
+    celestial dome
+    aquarium
+    amusement park
+    cave
+    train station
+    ski resort
+    temple
+    harbor
+    zoo
+    greenhouse
+    nature reserve
+
+
+Colors
+
+    Red
+    Blue
+    Green
+    Yellow
+    Black
+    White
+    Pink
+    Orange
+    Brown
+    Gray
+    Crimson
+    Turquoise
+    Amber
+    Lavender
+    Charcoal
+    Magenta
+    Jade
+    Coral
+    Sapphire
+    Maroon
+
+Weather
+
+    Thunderstorm
+    Fog
+    Blizzard
+    Lightning
+    Tornado
+    Mist
+    Hailstorm
+    Dew
+    Cyclone
+    Monsoon
+
+Vehicles
+
+    Motorcycle
+    Submarine
+    Helicopter
+    Rocket
+    Airplane
+    Bus
+    Skateboard
+    Hot air balloon
+    Carriage
+    Tricycle
+
+Sports
+
+    Basketball
+    Soccer
+    Tennis
+    Baseball
+    Swimming
+    Golf
+    Volleyball
+    Badminton
+    Rugby
+    Skiing
+
+Inventions
+
+    Telephone
+    Lightbulb
+    Computer
+    Camera
+    Air conditioner
+    Microwave
+    Printing press
+    Telescope
+    Radio
+    Internet
+
+Music
+
+    Guitar
+    Piano
+    Violin
+    Drums
+    Saxophone
+    Trumpet
+    Harp
+    Accordion
+    Cello
+    Flute
