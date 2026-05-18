@@ -9,8 +9,7 @@ with a persistent leaderboard, an optional AI opponent, and colorized
 terminal output.
 
 This was my first substantial programming project, written during my
-first semester at the American University of Beirut (CMPS 200,
-Fall 2024). It's preserved here as a record of where I started and how
+first semester at the American University of Beirut (Fall 2024). It's preserved here as a record of where I started and how
 much I bit off as a beginner.
 
 ---
