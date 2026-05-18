@@ -1,5 +1,9 @@
 # Minigames
 
+<p align="center">
+  <img src="assets/hangman-noose.gif" alt="The Hangman noose, animated frame by frame as wrong guesses accumulate" width="480">
+</p>
+
 > A console-based Java arcade. Four games, one engine, my first real OOP project.
 
 A terminal-based collection of four classic games — Connect Four,
@@ -91,8 +95,21 @@ are honest artifacts of that learning process. I've left them in.
 ```bash
 git clone https://github.com/Jamil-M03/minigames.git
 cd minigames/Minigames
-javac BoardGames/*.java
-java BoardGames.BoardGameApp
+javac -d out BoardGames/*.java
+java -cp out BoardGames.BoardGameApp
+```
+
+Compiled `.class` files land in `out/` (mirroring the package
+structure), keeping the source tree clean.
+
+### Cleaning build artifacts
+
+```bash
+# macOS / Linux
+rm -rf out
+
+# Windows (PowerShell)
+Remove-Item -Recurse -Force out
 ```
 
 ### From an IDE
